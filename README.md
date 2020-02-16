@@ -1,5 +1,5 @@
 ## Code 201 Reading Notes 
-**** in this page i`ll make a table that have some topices and the link of the pages ****
+****In this page i`ll make a table that have some topices and the link of the pages****
 
 | Topic Name | Link |
 | ----------- | ----------- |
