@@ -18,8 +18,8 @@ When you are referencing a piece of work such as a book,film or researchpaper, t
 <dfn> is for defination we i have to explain something 
 <address> it`s contain contact details for the author of the page 
  <ins> to put underline  </ins>for a work 
- and  <del> to delate </del>this word with a line in the center of it 
-<s> when we want to talk about some thing is not truely accorate 
+ and  `<del>` to delate `</del>`this word with a line in the center of it 
+ `<s>` when`</s>` we want to talk about some thing is not truely accorate 
 ## chapter 10 inrada to css 
 if we want to understand the css think of it like its a box and we are controil it with some rules that we put it 
 css rule containes 2 parts : 1-selctor it`s tells us which elents are we contoling
