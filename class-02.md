@@ -4,21 +4,21 @@
   we have from h1 to h6 for heeading h1 is the biggest 
    if we want to write pargraphe we use the <p> tag 
    if we want to make the font italic we use <i> and close it with </i> and for bold we use <b>
-   and we have '<sub>' and '<sup>' if we have a text we want to write it above or under lines
+ and we have <sub> and</sub> <sup> if we </sup> have a text we want to write it above or under lines
    if we leave many white space in our text in html  it will  consdier it as one whitespace 
    <br/> for breadk and go to an ew line 
    <hr/> to make a horzinta line between elements 
    There are some text elements that are not intended to affect the
 structure of your web pages, but they do add extra information to the
 pages — they are known as semantic markup. and we call it semantic  tags or elements like 
- <strong> to make the text bold 
- and <em> to make it emmizeise 
+ <strong> to make the text bold </strong>
+ and <em> to make</em> it emmizeise 
  <cite>
 When you are referencing a piece of work such as a book,film or researchpaper, the<cite> element can be used to indicate where the citation is from.
 <dfn> is for defination we i have to explain something 
 <address> it`s contain contact details for the author of the page 
-<ins> to put underline for a work 
-and  <del> to delate this word with a line in the center of it 
+ <ins> to put underline  </ins>for a work 
+ and  <del> to delate </del>this word with a line in the center of it 
 <s> when we want to talk about some thing is not truely accorate 
 ## chapter 10 inrada to css 
 if we want to understand the css think of it like its a box and we are controil it with some rules that we put it 
