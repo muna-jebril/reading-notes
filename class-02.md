@@ -56,4 +56,15 @@ class slecerotr  matches the lements that are in the same class  .note[]
      we can acess the items of the list by using the index and it`s starts from 0 not 1 
      # expression evalutes to a resualt  as a sin gle value like adding 2 numbers and store it in a new var 
      when we have a+b=c we call the hole thing expression and the puls sign we call it operator
-     
+
+    decison making :
+    theere are often serverl places in a script that  where a decion will make change and decide which line will be extucted 
+    there are 2 componet to a decison : 
+    1-an expression is evaluated which return  a value 
+    2-a condatinal statemant say  what to do if we have this stuation 
+    logical opeatroe only retun a single value (true or false  and it`s allow us to compare the reualst to ather opradner )
+    if statement evaluates a condation like this 
+    if(condation){
+        here are the steps we put it if the condation is true 
+    }
+    and we can add else to the if statemant and we put in it if code that will be ecteted if the condaton is flase 
