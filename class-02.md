@@ -4,7 +4,7 @@
   we have from h1 to h6 for heeading h1 is the biggest 
    if we want to write pargraphe we use the <p> tag 
    if we want to make the font italic we use <i> and close it with </i> and for bold we use <b>
-   and we have <sub> and <sup> if we have a text we want to write it above or under lines
+   and we have '<sub>' and '<sup>' if we have a text we want to write it above or under lines
    if we leave many white space in our text in html  it will  consdier it as one whitespace 
    <br/> for breadk and go to an ew line 
    <hr/> to make a horzinta line between elements 
@@ -39,7 +39,7 @@ class slecerotr  matches the lements that are in the same class  .note[]
  the only way to  use methods  is using objects 
  a script is a series of instractions thta the comupter do it to accomplish the goal and each  instration is known as statement  and should end up with a semicolon 
  java script  it case senstive thta`s mean the var A is drfirent from var a 
- we use  comments to explain what the code does  and to make the code easier we use // for a single line comment and we use /* to */ to multi lines comments 
+ we use  comments to explain what the code does  and to make the code easier we use doubal forwordslash  for a single line comment and we use forwordslash fallowed by star  to to multi lines comments 
  the varible is where we store the data we need 
  declaringa varbible is to create a varbible and give it a vaule like this 
  var name=muna;
