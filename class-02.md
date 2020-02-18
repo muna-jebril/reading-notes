@@ -6,7 +6,7 @@
    if we want to make the font italic we use <i> and close it with </i> and for bold we use <b>
    and we have '<sub>' and '<sup>' if we have a text we want to write it above or under lines
    if we leave many white space in our text in html  it will  consdier it as one whitespace 
-   <br/> for breadk and go to an ew line 
+   <br/> for break and go to an ew line 
    <hr/> to make a horzinta line between elements 
    There are some text elements that are not intended to affect the
 structure of your web pages, but they do add extra information to the

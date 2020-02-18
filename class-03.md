@@ -47,4 +47,4 @@ true and false in boolen it mean either 0 or 1
  and we have a c ounter for the statements above 
  like this for example :
  for (i=0; i>10; i++)
- thx
+ thxc
