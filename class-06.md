@@ -25,3 +25,10 @@ chapter 3
    adding or removing  html content :
    we have 2 dirfrent ways to add and remove content 
    1- inner html proprty and dom mainpulation 
+    ## the artical 
+     what is the hardest part of programing 
+     every onbe have his own opeion   like realning a new technolgy and naming things or testing your code or fixing bugs and so in  but the realy main problem is the domian problem 
+     whty is  it the hardest problem bec you dont have enough info about it and it`s like a puzzel that you want to complete it but you have no idea what is the orginal pic  and the problems you face you have no idea what is it 
+     how we can sove it ?
+     making the proble domian easier 
+     get better at understanding the problem domain .
