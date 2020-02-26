@@ -1,0 +1,25 @@
+Forms and events 
+ fomrs constinrs of more than one inut and put it in a box    its realted to each other.
+ and we willsend the data to the server 
+ their is 3 ways how to send data 
+  1 text 
+  2 number 
+  3 text area 
+  for the making choices we use :
+
+    checkboxes 
+    radio button 
+    password 
+
+howa form is work ?
+we fill the form ansd then we  sumbit the answers to the server 
+The name of each form control is sent to the server along with the value the user enters or 
+selects.
+ the server  process the info by using sime names 
+ The server creates a new page to send back to the browser based on the information received.
+
+ A form may have several form controls, each
+gathering different information. The server
+needs to know which piece of inputted data
+corresponds with which form element.    
+we use <form> 
