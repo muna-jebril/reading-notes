@@ -1,0 +1,13 @@
+chapter10 erroes and depging 
+ORDER OF EXECUTION :
+to find the error we have to follow the order of the statment 
+the Stack 
+so java script goes row by row but if a statment need a value it will stack here until we go and bring a varibale 
+error object can help us in finding the error by the proprty 
+name,msg,filename ,line number 
+Debugging is about deduction: eliminating potential causes of an error.
+Here is a workflow for techniques you will meet over the next 20 pages.
+Try to narrow down where the problem might be, then look for clues.
+so to solve the problem of the error of what we have we should ask our selfs aqueston that where is the problem to  know at which line and where 
+2- we have to use the console.log()to know where it sops and what values gives me 
+we also can use the break 
